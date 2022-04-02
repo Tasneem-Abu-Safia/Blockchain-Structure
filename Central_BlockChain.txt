@@ -1,36 +1,46 @@
 {
     "index": 1,
-    "timestamp": 1648750886,
+    "timestamp": 1648895031,
     "transaction": [],
     "previousHash": "0000000000000000000000000000000000000000000000000000000000000000000000000000",
     "proof": 100,
-    "hash": "91105278c3ecf06f0d531a79a6b1255bf76a127f6de4a8d88982d088b0b7a49f"
+    "difficulty": "0000",
+    "version": "0x1",
+    "merkle_root": "4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",
+    "hash": "50d55d40e5b7eb4415474ee93f50fda5215ebed797ec35e48d5d5b3619946ca9"
 }{
     "index": 2,
-    "timestamp": 1648750886,
+    "timestamp": 1648895031,
     "transactions": [
         {
             "from": "bc1qx4dsxn8lcjvy2lwnrjd2l63dwaz7n6pfgswtpp",
             "to": "bc1qv9algnn8f3n0seeldhx5e7wfqd3e9c2xs7p5d0",
             "amount": 1,
-            "timestamp": 1648750886
+            "timestamp": 1648895031
         }
     ],
     "proof": 28,
-    "previous_hash": "91105278c3ecf06f0d531a79a6b1255bf76a127f6de4a8d88982d088b0b7a49f",
-    "hash": "ccc50266841ac76ae0bf24a3181fbaa32ba16214368469d8b88c5600c6a53436"
+    "previous_hash": "50d55d40e5b7eb4415474ee93f50fda5215ebed797ec35e48d5d5b3619946ca9",
+    "difficulty": "0000",
+    "version": "0x1",
+    "merkle_root": "5ba1c6f6357d0d1a8866ca067126a3ae8cda599608ce051efad4c33d147ee0a2",
+    "hash": "68b5b7d986791cbc53dd06b358840f41e69f2a5ad51423dc39b8c7ddbacc5a61"
 }{
     "index": 3,
-    "timestamp": 1648750886,
+    "timestamp": 1648895031,
     "transactions": [
         {
             "from": "bc1qqlgcwp9l0ptcg2qhaccejexxc8yqm9vyahzmyw",
             "to": "1FZHyNwk5EQ4d6JUMsrLpVunSpuENqARhe",
             "amount": 1,
-            "timestamp": 1648750886
+            "timestamp": 1648895031
         }
     ],
     "proof": 153,
-    "previous_hash": "ccc50266841ac76ae0bf24a3181fbaa32ba16214368469d8b88c5600c6a53436",
-    "hash": "65182b660ff3deee5d8ce6219b4ef85999052b5817bba98fc56a0fded53712be"
+    "previous_hash": "68b5b7d986791cbc53dd06b358840f41e69f2a5ad51423dc39b8c7ddbacc5a61",
+    "difficulty": "0000",
+    "version": "0x1",
+    "merkle_root": "1394037ef68404808628788518f222ab8434410cc319c7ff00c0b9728cab01fb",
+    "hash": "2660774292b8e9e5e668398a92b18f58d62dc5c87ce85aa16f9a2c77aab6e264"
+
 }
